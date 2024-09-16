@@ -1,0 +1,28 @@
+1. 
+Leeftijd: Kwantatief
+cabinegegevens: Kwalitatief
+
+Gemiddelde leeftijd: 29.7
+STDEV leeftijd: 14.5
+
+2.
+Weet niet welke visualisatie bedoeld wordt?
+Ik denk dat je met een desision tree een redelijk accurate model kan maken.
+
+3.
+Weet weer niet welke visualisatie bedoeld wordt?
+En heb dus geen idee of die beter doet
+
+4.
+Om het accurater te maken
+Weet niet wat dit voor de meetwaarden betekent
+
+5. 
+Die heeft hij ingevuld door te kijken naar overeenkomsten tussen de personen waar wel de leeftijd bekend van is en daarmee de leeftijd te voorspellen
+
+6. 
+Hij heeft alle cabin gegevens verwijderd toch?
+
+7. 
+age, sex, class, embarked, title, fare, parch en sibsp
+Geen idee wat er met de target variabele bedoeld wordt
